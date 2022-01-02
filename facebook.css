@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F0F2F5;
+}
+
+#h11 {
+  color: #1877F2;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-size: 40px;
+}
+
+#h31 {
+
+  margin-left: 220px;
+  font-size: 20px;
+}
+
+#div1 {
+  float: left;
+  max-width: 50%;
+  Height: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  margin-top: 250px;
+}
+
+#div2 {
+  margin-top: 200px;
+  float: right;
+  max-width: 50%;
+  Height: 100%;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+#fullname {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+
+}
+
+#password {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+#login {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  background-color: #166FE5;
+  color: white;
+}
+
+#forget {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  background-color: none;
+  color: blue;
+  text-decoration: underline;
+  border: none;
+}
+#new{
+  text-align: center;
+  width: 50%;
+  margin-top: 5px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  background-color: #36A420;
+  color: white;
+}
+form {
+  text-align: center;
+  margin-right: 250px;
+  background-color: #FFFFFF;
+  width: 350px;
+  height: 300px;
+  padding: 5px;
+}
